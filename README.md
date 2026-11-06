@@ -1,4 +1,4 @@
-Project: Recipes
+# Project: Recipes
 
 This is a practice project where I will create a basic recipe website.
 The purpose of this project is to practice my foundational HTML knowledge.
