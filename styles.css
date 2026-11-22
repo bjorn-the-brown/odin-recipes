@@ -1,0 +1,18 @@
+*  {
+    font-family: Roboto, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 128px;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 64px;
+    font-weight: 400;
+}
+
+a {
+    font-weight: 600;
+}
